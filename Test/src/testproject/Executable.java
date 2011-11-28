@@ -5,6 +5,7 @@ public class Executable {
 	public static void main(String[] args) {
 		System.out.println("Hello world!");
 		System.out.println(getBye());
+		System.out.println(new Haha().what());
 		return;
 	}
 	
